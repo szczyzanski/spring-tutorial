@@ -1,6 +1,5 @@
-package application;
+package application.domain;
 
-import domain.Book;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,7 @@
-package application;//package application;
+package application.components;//package application;
 
-import domain.Book;
+import application.domain.Book;
+import application.domain.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
